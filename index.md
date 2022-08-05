@@ -17,19 +17,19 @@ My team and I explored Fatality Analysis Reporting System (FARS) data collected 
 ## Machine Learning
 
 ### Regression 
-**Housing Price Prediction** 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/hazel-nguyen/ames_house_price)
-I applied Linear Regression, KNN Regression, Random Forest and other techniques including dimensionality reduction and regularization to choose the best model to predict house price in the Ames Housing dataset.
+  **Housing Price Prediction**   
+  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/hazel-nguyen/ames_house_price)  
+  I applied Linear Regression, KNN Regression, Random Forest and other techniques including dimensionality reduction and regularization to choose the best model to predict house price in the Ames Housing dataset.   
 
 ### Classification
-**Travel Insurance Prediction**
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/hazel-nguyen/logistic_insurance)
-I applied logistic regression to predict the likelihood of a customer to purchase travel insurance using the Travel Insurance dataset on Kaggle. 
+  **Travel Insurance Prediction**  
+  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/hazel-nguyen/logistic_insurance)
+  I applied logistic regression to predict the likelihood of a customer to purchase travel insurance using the Travel Insurance dataset on Kaggle. 
 
 ### Time Series Analysis
-**Univariate Time Series Analysis of Drought Data** 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/hazel-nguyen/time-series-drought)
-My team and I analyzed precipitation time series from National Centers for Environmental Information (NOAA) to understand drough patterns. We tried SARIMA, ARIMA, Holt-Winters and sent our report to Undergraduate Statistics Project Competition.
+  **Univariate Time Series Analysis of Drought Data**   
+  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/hazel-nguyen/time-series-drought)  
+  My team and I analyzed precipitation time series from National Centers for Environmental Information (NOAA) to understand drough patterns. We tried SARIMA, ARIMA, Holt-Winters and sent our report to Undergraduate Statistics Project Competition.  
 
 ---
 ## Deep Learning
@@ -44,12 +44,12 @@ This course was my first introduction to neural networks and deep learning. I be
 [![Run in Colab](https://img.shields.io/badge/Colab-View_on_Colab-yellow?logo=Colab)](https://colab.research.google.com/drive/1LWHYBAV9PT9T-oL0p1_WDUmpj18zxtn-?usp=sharing)
 
 ---
-### DataFest 2021 Miami University - Winner  
-[![Open PDF](https://img.shields.io/badge/PDF-Open_PDF-red?logo=adobe-acrobat-reader&logoColor=white)](pdf/DataFest 2021 - Damode.pdf)
-My team and I were given +5GB of survey data from a Research Center about Drug usage. We applied tree regression to select important variables to optimize survey and clustering to identify groups with high risks.
+### DataFest 2021 Miami University - Winner    
+[![Open PDF](https://img.shields.io/badge/PDF-Open_PDF-red?logo=adobe-acrobat-reader&logoColor=white)](pdf/DataFest 2021 - Damode.pdf)  
+My team and I were given +5GB of survey data from a Research Center about Drug usage. We applied tree regression to select important variables to optimize survey and clustering to identify groups with high risks.  
 
-### DataFest 2022 Miami University - Winner  
-[![Open PDF](https://img.shields.io/badge/PDF-Open_PDF-red?logo=adobe-acrobat-reader&logoColor=white)](pdf/DATA FEST.pdf)
-My team and I were given data logs from an educational game to analyze during hackathon. Clustering reveals the patterns of players.
+### DataFest 2022 Miami University - Winner    
+[![Open PDF](https://img.shields.io/badge/PDF-Open_PDF-red?logo=adobe-acrobat-reader&logoColor=white)](pdf/DATA FEST.pdf)  
+My team and I were given data logs from an educational game to analyze during hackathon. Clustering reveals the patterns of players.  
 
 
