@@ -1,5 +1,5 @@
 title: <p align="center"> Hazel Nguyen </p>
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/round_logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p align="center">
   A Data Newbie's Journey
@@ -13,9 +13,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p align="justify">
   Hazel's here \^o^/ I'm a senior double majoring in Finance and Data Science at Miami University in Ohio
   <br><br>
-  I'm currently an Analytics Intern at Genpact and seeking full-time roles in data science and analytics
+  I'm currently seeking full-time roles in data science and analytics
   <br><br>
   
-theme: jekyll-theme-minimal
-skin: dark
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: dark
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
