@@ -16,7 +16,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   I'm currently seeking full-time roles in data science and analytics
   <br><br>
 
-plugins:  jekyll-include-cache
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: dark
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
